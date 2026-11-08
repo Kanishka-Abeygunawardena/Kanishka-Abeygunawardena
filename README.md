@@ -1,23 +1,28 @@
-# 👋 Hi, I'm Kanishka
+# Kanishka Abeygunawardena
 
-Python engineer & data scientist from Colombo, building towards **Data Science → AI development → long‑term nanotechnology research**.
+**Python Engineer | Production Data & Backend Systems | Building toward Cloud & AI Platforms**
 
-- 🔭 Current focus: Python, data pipelines, KPI tooling, and clean, testable code
-- 📚 Learning: Pandas, scikit‑learn, APIs/backends, CI/CD
-- 🧪 Interests: Automation, ML for real business problems, and future biotech/nanotech
+I work on production Python systems, including backend and batch workflows, data processing, KPI/reporting services, testing, releases, and troubleshooting. My approach is production-first: understand the problem, make a focused change, validate the result, and keep systems maintainable.
 
-## 🔧 Tech I use
-Python • Pandas • NumPy • scikit-learn • SQL • Git/GitHub • Jupyter • PyCharm • Linux
+## Engineering background
 
-## 📌 What I’m building next
-- `kpi-debugger/` – small CLI to surface failing KPI rules from CSV/DB
-- `pandas-recipes/` – notebook of 10+ reusable data‑wrangling patterns
-- `ml-basics/` – train/validate pipeline with metrics and simple model registry
+- **Python and backend:** APIs, automation, batch jobs, debugging, and maintainable code.
+- **Data systems:** SQL, data workflows, reporting, data quality, and Spark-related troubleshooting.
+- **Production delivery:** tests, CI/CD workflows, incident investigation, and release validation.
+- **Collaboration:** connecting business requirements with practical engineering solutions.
 
-## 🗂️ Find my work
-I’ll pin my best repos below as I publish them. Check back soon!
+## Where I'm heading
 
-## 📫 Connect
-- LinkedIn: https://www.linkedin.com/in/kanishka-abey
-- Email: kishi1986@hotmail.com
+I'm strengthening my cloud-native and platform engineering capabilities through independent projects, with a longer-term direction toward **MLOps, ML Platform, AI Platform, and applied AI systems**. These are development goals—not claims of current production ownership in those specializations.
 
+## Personal projects
+
+- **Cloud-Native Operations Platform** — a personal backend/platform project in progress (private while under development). Public technical documentation and a demo will follow only when they're ready and reviewed.
+- **[Python Projects](https://github.com/Kanishka-Abeygunawardena/python-projects)** — an introductory repository for future small, independent Python examples. Its current public branch is documentation-first.
+
+My employer's proprietary code, internal systems, customer material, and confidential work are not published here.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/kanishka-python-data)
+- [GitHub](https://github.com/Kanishka-Abeygunawardena)
